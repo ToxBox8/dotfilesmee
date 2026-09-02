@@ -120,3 +120,5 @@ hl.bind(mainMod .. " + S",         hl.dsp.workspace.toggle_special())
 -----------------------
 
 hl.bind(mainMod .. " + A", hl.dsp.exec_cmd(noctCall .. "notifications toggleHistory"))
+
+--prueba de sincronización
