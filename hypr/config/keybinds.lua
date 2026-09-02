@@ -88,7 +88,7 @@ hl.bind(mainMod .. " + V", hl.dsp.exec_cmd(noctCall .. "launcher clipboard"))
 hl.bind("CONTROL + ALT + space ", function()  hl.exec_cmd("hyprctl switchxkblayout current next") end)
 --webapp maker 
 
-hl.bind(mainMod .. " + k", hl.dsp.exec_cmd("noctalia msg panel-toggle umedbazarov/webapp-maker:panel"))
+hl.bind(mainMod .. " + h", hl.dsp.exec_cmd("noctalia msg panel-toggle umedbazarov/webapp-maker:panel"))
 
 --------------------
 ---- WORKSPACES ----
