@@ -2,6 +2,8 @@
 
 TERMINAL     = "kitty"
 FILE_MANAGER = "nautilus"
-BROWSER      = "kitty -e helium"
+BROWSER      = "helium"
 EDITOR       = "gnome-text-editor --new-window"
 CALCULATOR   = "gnome-calculator"
+MUSICPLAYER  = "simpmusic"
+
